@@ -9,6 +9,12 @@
       "request": "launch",
       "name": "First project",
       "file": "d:\\Workapses\\TypeScript\\UnderstandingTypeScript\\first-project\\index.html"
+    },
+    {
+      "type": "chrome",
+      "request": "launch",
+      "name": "Course project",
+      "file": "d:\\Workapses\\TypeScript\\UnderstandingTypeScript\\course-project\\index.html"
     }
   ]
 }
